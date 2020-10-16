@@ -22,6 +22,9 @@ https://github.com/pedrommcarrasco/Brooklyn
 Youtube-Music: Simple Mac app wrapper for YouTubeMusic
 https://github.com/steve228uk/YouTube-Music
 
+Xi Editor: High quality text editor
+https://github.com/xi-editor/xi-mac
+
 
 ## Backend Projects
 
