@@ -25,4 +25,10 @@ https://github.com/trivago/Heimdallr.swift
 Vapor: Go all Swift?    
 https://github.com/vapor/vapor
 
+OneSignal: U need Push without the hassle?    
+https://github.com/OneSignal/
+
+Alamofire: Maybe not needed anymore, but for the beginning I found it easier.    
+https://github.com/Alamofire/Alamofire
+
 
