@@ -16,6 +16,9 @@ https://github.com/WeTransfer/WeScan
 CalendarKit: U need a calendar?    
 https://github.com/richardtop/CalendarKit
 
+Brooklyn: Screensaver based on the animations presented during Apple Special Event
+https://github.com/pedrommcarrasco/Brooklyn
+
 
 ## Backend Projects
 
