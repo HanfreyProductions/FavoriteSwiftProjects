@@ -25,6 +25,9 @@ https://github.com/steve228uk/YouTube-Music
 Xi Editor: High quality text editor
 https://github.com/xi-editor/xi-mac
 
+IINA: IINA is the modern video player for macOS.
+https://github.com/iina/iina
+
 
 ## Backend Projects
 
