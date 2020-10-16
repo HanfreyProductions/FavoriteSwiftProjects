@@ -16,6 +16,12 @@ https://github.com/WeTransfer/WeScan
 CalendarKit: U need a calendar?    
 https://github.com/richardtop/CalendarKit
 
+Brooklyn: Screensaver based on the animations presented during Apple Special Event
+https://github.com/pedrommcarrasco/Brooklyn
+
+Youtube-Music: Simple Mac app wrapper for YouTubeMusic
+https://github.com/steve228uk/YouTube-Music
+
 
 ## Backend Projects
 
