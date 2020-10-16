@@ -22,9 +22,6 @@ https://github.com/pedrommcarrasco/Brooklyn
 Youtube-Music: Simple Mac app wrapper for YouTubeMusic
 https://github.com/steve228uk/YouTube-Music
 
-Xi Editor: High quality text editor
-https://github.com/xi-editor/xi-mac
-
 IINA: IINA is the modern video player for macOS.
 https://github.com/iina/iina
 
@@ -43,4 +40,5 @@ https://github.com/OneSignal/
 Alamofire: Maybe not needed anymore, but for the beginning I found it easier.    
 https://github.com/Alamofire/Alamofire
 
-
+Kingfisher: Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web.
+https://github.com/onevcat/Kingfisher
