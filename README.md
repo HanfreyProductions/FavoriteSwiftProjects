@@ -22,6 +22,9 @@ https://github.com/pedrommcarrasco/Brooklyn
 Youtube-Music: Simple Mac app wrapper for YouTubeMusic
 https://github.com/steve228uk/YouTube-Music
 
+IINA: IINA is the modern video player for macOS.
+https://github.com/iina/iina
+
 
 ## Backend Projects
 
