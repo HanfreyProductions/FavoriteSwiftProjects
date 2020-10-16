@@ -40,4 +40,5 @@ https://github.com/OneSignal/
 Alamofire: Maybe not needed anymore, but for the beginning I found it easier.    
 https://github.com/Alamofire/Alamofire
 
-
+SwiftyJSON: SwiftyJSON makes it easy to deal with JSON data in Swift.
+https://github.com/SwiftyJSON/SwiftyJSON
